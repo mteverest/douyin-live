@@ -21,7 +21,7 @@
 | token | string | 接口授权码 |
 | room_id | int | 直播间的room_id |
 
-#### 返回示例请联系：[TiToData](https://www.titodata.com/about?from=gitee)
+#### 返回示例请联系：[TiToData](https://www.titodata.com/about?from=zhiboapi)
 
 
 
@@ -34,7 +34,7 @@
 | room_id | int | 直播间的room_id |
 
 
-#### 返回示例请联系：[TiToData](https://www.titodata.com/about?from=gitee)
+#### 返回示例请联系：[TiToData](https://www.titodata.com/about?from=zhiboapi)
 
 
 ### 直播间带货商品列表
@@ -46,7 +46,7 @@
 | room_id | int | 直播间的room_id |
 
 
-#### 返回示例请联系：[TiToData](https://www.titodata.com/about?from=gitee)
+#### 返回示例请联系：[TiToData](https://www.titodata.com/about?from=zhiboapi)
 
 
 ### 直播间开播查询
@@ -58,7 +58,7 @@
 | room_id | int | 直播间的room_id |
 
 
-#### 返回示例请联系：[TiToData](https://www.titodata.com/about?from=gitee)
+#### 返回示例请联系：[TiToData](https://www.titodata.com/about?from=zhiboapi)
 
 
 ### 直播间在线观众
@@ -70,7 +70,7 @@
 | room_id | int | 直播间的room_id |
 
 
-#### 返回示例请联系：[TiToData](https://www.titodata.com/about?from=gitee)
+#### 返回示例请联系：[TiToData](https://www.titodata.com/about?from=zhiboapi)
 
 
 ### 直播间随机推荐
@@ -81,4 +81,4 @@
 | token | string | 接口授权码 |
 
 
-#### 返回示例请联系：[TiToData](https://www.titodata.com/about?from=gitee)
+#### 返回示例请联系：[TiToData](https://www.titodata.com/about?from=zhiboapi)
