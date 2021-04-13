@@ -5,7 +5,7 @@
 ## 抖音直播数据、抖音数据采集、抖音直播监控
 
 #### TiToData：专业的短视频数据采集、处理平台。
-> 更多信息请联系： [TiToData](https://www.titodata.com/about?from=shipinapi)
+#### 联系微信：ifuxing123
 ```
 海量数据采集
 每天为客户采集5亿条数据
@@ -26,8 +26,7 @@
 | token | string | 接口授权码 |
 | room_id | int | 直播间的room_id |
 
-#### 返回示例请联系：[TiToData](https://www.titodata.com/about?from=zhiboapi)
-
+#### 返回示例请联系微信：ifuxing123
 
 
 ### 直播间 弹幕/关注/送礼/点赞/来了 实时获取
@@ -39,7 +38,7 @@
 | room_id | int | 直播间的room_id |
 
 
-#### 返回示例请联系：[TiToData](https://www.titodata.com/about?from=zhiboapi)
+#### 返回示例请联系微信：ifuxing123
 
 
 ### 直播间带货商品列表
@@ -51,7 +50,7 @@
 | room_id | int | 直播间的room_id |
 
 
-#### 返回示例请联系：[TiToData](https://www.titodata.com/about?from=zhiboapi)
+#### 返回示例请联系微信：ifuxing123
 
 
 ### 直播间开播查询
@@ -63,7 +62,7 @@
 | room_id | int | 直播间的room_id |
 
 
-#### 返回示例请联系：[TiToData](https://www.titodata.com/about?from=zhiboapi)
+#### 返回示例请联系微信：ifuxing123
 
 
 ### 直播间在线观众
@@ -75,7 +74,7 @@
 | room_id | int | 直播间的room_id |
 
 
-#### 返回示例请联系：[TiToData](https://www.titodata.com/about?from=zhiboapi)
+#### 返回示例请微信：ifuxing123
 
 
 ### 直播间随机推荐
@@ -86,6 +85,6 @@
 | token | string | 接口授权码 |
 
 
-#### 返回示例请联系：[TiToData](https://www.titodata.com/about?from=zhiboapi)
+#### 返回示例请微信：ifuxing123
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Video-Hub.douyin-live)
